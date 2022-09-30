@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(239, 187, 118);
+    margin: 10px 10px;
+}
+.table{
+    width: 68%;
+    margin: 25px;
+    margin-left: 150px;
+  }
+  .addbtn{
+    background-color: green;
+    padding: 8px 10px;
+    border-radius: 5px;
+    width: 100px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: aliceblue;
+  }
+  .subbtn{
+    background-color: rgb(39, 95, 226);
+    padding: 8px 10px;
+    border-radius: 5px;
+    width: 100px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: aliceblue;
+  }
+  .resbtn{
+    background-color: rgb(242, 46, 28);
+    padding: 8px 10px;
+    border-radius: 5px;
+    width: 100px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: aliceblue;
+  }
+
